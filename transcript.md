@@ -57,7 +57,7 @@ Each company in China is required to hire "content moderators" or what's better 
 
 Here's the thing, complaining about the government is allowed and most of the time turned a blind eye to it but **mobilizing people through** a rally is **strictly** censored.
 
-China is close to finding common ground to maintain control over the expression of opinions, but without letting them act on these opinions.
+China is about finding common ground to maintain control over the expression of opinions, but without letting them act on these opinions.
 
 By law, the browsing activity of everyone is collected by the internet provider and passed to the government. With the rising of big data and data analysis, we can all see what's wrong with this.
 
@@ -71,7 +71,7 @@ In the book "censored distraction and diversion inside china's great firewall" 3
 
 - Flooding
   
-  - Drow up critical thoughts in a see of pro gov messages using internet trolls and a load of opposing article
+  - Drowns up critical thoughts in a see of pro gov messages using internet trolls and a load of opposing article
 
 - Friction
   
