@@ -27,7 +27,7 @@ society is divided into 3
 
 what this has to do with china? **everything**
 
-## Internet control and the great firewall: controlling the truth
+## Internet censorship and the great firewall: controlling the truth
 
 <https://nebula.tv/videos/theexploration-how-china-controls-the-internet>
 
