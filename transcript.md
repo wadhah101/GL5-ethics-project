@@ -1,8 +1,8 @@
-# GL5-ethics-project
+# AI in china: GL5 ethics project
 
 ## Introduction
 
-Before diving into the rise of artificial intelligence in china we need to explore the existing policies and political climate in china but even before that I like to mention a novel called 1984 and leave you to draw the parallels
+Before we dive into the rise of artificial intelligence in China, we need to explore existing policies and the political climate in China, but before we do, I'd like to refer to a novel called 1984 and have you draw the parallels.
 
 ## Nineteen Eighty-Four
 
@@ -10,11 +10,11 @@ Before diving into the rise of artificial intelligence in china we need to explo
 
 [The Dystopian World of 1984 Explained - YouTube](https://www.youtube.com/watch?v=GQxOKXEff4I)
 
-Nineteen Eighty-Four is a famous novel written by X. It revolves around a world living in a dystopian future where Utilitarianism rains, individualism is dead, and reality alongside history are just a matter of opinion.
+Nineteen Eighty-Four is a famous novel written by X. It revolves around a world living in a dystopian future where utilitarianism rains, individualism is dead, and reality alongside history are just a matter of opinion.
 
-Constant surveillance of every citizen is the norm
+Constant surveillance of every citizen is the norm.
 
-control of information to such an extent that facts are not reality and reality can be changed on the whim of big brother and "the party"
+The control of information to the point where facts are not reality and reality can be changed at the whim of Big Brother and the "party".
 The party has a monopoly on facts and political discourse ( debates )
 
 society is divided into 3
@@ -39,9 +39,9 @@ What happened in June 1989 at Tiananmen Square?
 
 **Absolutely nothing**
 
-As we all know China blocks Facebook, Twitter, Google, and Wikipedia ... but that can be easily evaded by paying a few dollars a month for a VPN. so does china **really** control the internet?
+As we all know China blocks Facebook, Twitter, Google, and Wikipedia ... but that can be easily evaded by paying a few dollars a month for a VPN. Thus, does china **really** control the internet?
 
-How can it control the internet without giving the impression to the average citizen you are doing so?
+How can it control the Internet without giving the average citizen the impression that it does?
 
 The golden shield project or what's known today as the great firewall
 
@@ -53,13 +53,13 @@ The golden shield project or what's known today as the great firewall
 
 - mass surveillance
 
-Each company in china is required to hire "content moderators" or what's better known as "sensors". The official number of those workers is **2 million****
+Each company in China is required to hire "content moderators" or what's better known as "sensors". The official number of those workers is **2 millions****.
 
-Here's the thing, complaining about the government is allowed and mostly a blind eye is turned to it but **mobilizing people through** a rally is **strictly** censored
+Here's the thing, complaining about the government is allowed and most of the time turned a blind eye to it but **mobilizing people through** a rally is **strictly** censored.
 
-China is about finding a middle ground to maintain control to voice opinions but not let them act based on them.
+China is close to finding common ground to maintain control over the expression of opinions, but without letting them act on these opinions.
 
-by law, the browsing activity of everyone is collected by the internet provider and passed to the government. With the rising of big data and data analysis, we can all see what's wrong with this.
+By law, the browsing activity of everyone is collected by the internet provider and passed to the government. With the rising of big data and data analysis, we can all see what's wrong with this.
 
 In the book "censored distraction and diversion inside china's great firewall" 3 methods are described on how the government controls the internet :
 
