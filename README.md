@@ -1,11 +1,5 @@
 # GL5-ethics-project
 
-## Presentation
-
-Hello. Artificial intelligence in china is used to monitor people and they are good at detecting your face and the government is evil.
-
-Thank you for your attention. presentation is over
-
 ## Introduction
 
 Before diving into the rise of artificial intelligence in china we need to explore the existing policies and political climate in china but even before that I like to mention a novel called 1984 and leave you to draw the parallels
