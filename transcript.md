@@ -97,7 +97,7 @@ What if every action you took in your life was recorded in a score like a video 
 
 - Bad actions lower your score
 
-- Your scope can be looked up online
+- Your score can be looked up online
 
 **Your score is used to judge you**
 
