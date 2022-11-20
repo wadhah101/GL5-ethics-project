@@ -10,6 +10,14 @@ things to write about
 
 - using ai in classroom, ai education https://www.youtube.com/watch?v=JMLsHI8aV0g
 
+
+
+## Presentation
+
+Hello. Artificial intelligence in china is used to monitor people and they are really good at detecting your face and the goverment is evil.
+
+Thank you for attention. presentation is over
+
 ## Introduction
 
 Before diving into the rise of artificial intelligence in china we need to explore the exisiting policies and political climate in china but even before that I like to mention a novel called 1984 and leave you to draw the parallels 
@@ -20,7 +28,7 @@ Before diving into the rise of artificial intelligence in china we need to explo
 
 [The Dystopian World of 1984 Explained - YouTube](https://www.youtube.com/watch?v=GQxOKXEff4I)
 
-Nineteen Eighty-Four is a novel written by X. It revolves around a world living a dystopian future where utalitirism rained, indivudualism is dead,reality and history are just a matter of opinion.
+Nineteen Eighty-Four is a famous novel written by X. It revolves around a world living a dystopian future where utalitirism rained, indivudualism is dead,reality and history are just a matter of opinion.
 
 Constant surveillance of everey citizen is the norm
 
@@ -38,7 +46,7 @@ society is divided into 3
 
 what this has to do with china ? everything 
 
-## Internet control and the great firewall
+## Internet control and the great firewall: controlling the truth
 
 https://nebula.tv/videos/theexploration-how-china-controls-the-internet
 
@@ -100,7 +108,7 @@ In the book "censored distraction and diversion inside china's great firewall" 3
 
 So do you think that's dystopian enought ? we just started.
 
-## The social credit system
+## The social credit system: Big data meets Big brother
 
 https://nebula.tv/videos/real-life-lore-yt-what-life-under-china-s-social-credit-system-could-be-like
 
@@ -172,12 +180,64 @@ How is being powered ?
 
 **620 million cctv camera nationwide** That's a camera for every two persons in china all capable of real time facial recognition
 
-
-
 The results ?
 
 28 million banned sale of airplane tickets    
 
+Things are getting closer and closer to 1984. Let's now explore The age of artificial intelligence
+
+## The age of artificial intelligence:  1984 is 2022
+
+https://www.youtube.com/watch?v=CLo3e1Pak-Y
+
+In the previous years the chinese goverment have collected a tremendious amount of  data alongside personal identifying information for every citizen as every person is required to have a state issued ID card which enables mass surveillance in real time.
+
+Let's exlore some real world applictions
+
+- jay walking
+
+### Jaw walking
+
+crossing the street illegally in china ( in a red light ) will result in a camera taking a photo of you, identifying you instantially and issueing a fine alongside public display of your face in the screen of crosswalk 
+
+### Pay with your face
+
+Payment technologies using facial recognition are slowly becoming the norm in china
+
+### Toilet paper waste control
+
+In a lot of public places you can not get toilet paper without identifying with your face
+
+### Office monitoring
+
+Camera enable employer to check employee ,entry and leave time, their mood and their productivity
+
+### Searching
+
+600 million CCTV country wide enable the goverment to easily find any target ( a person, a car) and monitor their movement in nearly real time
+
+### Crowd control
+
+AI can monitor crowds for their size and the period each person have stayed in the same zone detecting unsual activities (protests) in real time allowing action to be taken immediatly with minimal damage
+
+### Goverment housing (Dorms)
+
+Cameras monitor the residental complexes and control access to house. It keeps track of number of visitors and unsual activties of residents
 
 
-Things are getting closer and closer to 1984
+
+--- 
+
+### Negvi & skynet
+
+Half a milion dollars  investment from the chinese goverment
+
+A rising tech company specialized in video stream processing and cross checking facial data against enourmous goverment databases being mainly oriented  at crinimal databases.
+
+3000 cases have been caught in 2021 using this system ironically called Skynet
+
+### Education
+
+**Certain** private expirmental schools are using headbands and cameras to monitor student during the class.
+
+Certain devices are able to check brain activity throught its electric signals and the data is sent to the teacher computer in realtime making him able to distinguish who's paying attention and who is not.
