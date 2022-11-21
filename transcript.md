@@ -167,11 +167,11 @@ Things are getting closer and closer to 1984. Let's now explore The age of artif
 ## The age of artificial intelligence:  1984 is 2022
 
 <https://www.youtube.com/watch?v=CLo3e1Pak-Y>
-In previous years the Chinese government has collected a tremendous amount of data alongside personal identifying information for every citizen as every person is required to have a state-issued ID card which enables mass surveillance in real-time.
+In previous years the Chinese government has collected a tremendous amount of data alongside personal identifying information for every citizen
 
 Let's explore some real-world applications
 
-### Jaw walking
+### Jay walking
 
 crossing the street illegally in china (at a red light) will result in a camera taking a photo of you, identifying you instantly and issuing a fine alongside a public display of your face on the screen of the crosswalk
 
@@ -194,16 +194,17 @@ Cameras enable employers to check employee entry and leave time, their mood and 
 ### Crowd control
 
 AI can monitor crowds for their size and the period each person has stayed in the same zone detecting unusual activities (protests) in real-time allowing action to be taken immediately with minimal damage
-Government housing (Dorms)
+
+## Government housing (Dorms)
 
 Cameras monitor the residential complexes and control access to houses. It keeps track of the number of visitors and unusual activities of residents
 
 ---
 
-### Negvi & skynet
+### Megvii & skynet
 
 A rising tech company specialized in video stream processing and cross-checking facial data against enormous government databases being mainly oriented at criminal databases.
-A million dollars  investment from the Chinese government
+1.4 Billion dollar  investment from the Chinese government
 
 3000 cases have been caught in 2021 using this system ironically called Skynet
 
